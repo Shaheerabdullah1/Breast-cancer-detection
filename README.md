@@ -2,8 +2,8 @@
 
 A deep learning powered **Flask Web App** that classifies breast cancer histopathology images into **Benign** or **Malignant**.  
 This project leverages two state-of-the-art architectures:
-- **ResNet50** 🦾
-- **Swin Transformer** 🔭
+- **ResNet50** 
+- **Swin Transformer**
 
 It also includes a **Jupyter notebook** comparing their performance side by side.
 
